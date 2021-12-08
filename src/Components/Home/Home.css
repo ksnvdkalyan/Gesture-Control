@@ -1,0 +1,82 @@
+main {
+  text-align: center;
+}
+
+.mainTitle {
+  margin: 20px 0 0;
+  font-size: 48px;
+}
+
+.homeTitle {
+  margin: 20px 0 0;
+  font-size: 40px;
+}
+
+.imageContainer {
+  margin: auto;
+  padding: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  width: 400px;
+  height: 290px;
+  border-radius: 20px;
+}
+
+.homeText {
+  margin: 10px 250px 50px;
+  font-size: 18px;
+}
+
+.doubleContent {
+  width: 100%;
+  margin: 0 0 50px;
+  padding: 20px 0 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.leftContent {
+  width: 50%;
+  margin: auto 30px auto 250px;
+  border-radius: 20px;
+}
+
+.rightContent {
+  width: 50%;
+  margin: auto 250px auto 30px;
+  border-radius: 20px;
+}
+
+.contentImage {
+  width: 400px;
+  height: 250px;
+  border-radius: 20px;
+}
+
+.contentText {
+  display: flex;
+  padding: 0 20px;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  width: 400px;
+  height: 250px;
+  background-color: #222233;
+  border-radius: 20px;
+  font-size: 18px;
+  color: #dae8fa;
+}
+
+.infoText {
+  margin: 10px 250px 50px;
+  font-size: 25px;
+}
+
+.componentTitle {
+  margin: 20px 0 0;
+  font-size: 50px;
+}
